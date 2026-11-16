@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/chilo_english_tu_historia_comienza_aqui.html"
+    }
+  ]
+}

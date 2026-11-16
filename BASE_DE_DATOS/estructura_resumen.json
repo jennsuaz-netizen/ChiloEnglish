@@ -1,0 +1,22 @@
+{
+  "platform": "CHILO ENGLISH",
+  "levels": [
+    {
+      "name": "Principiante",
+      "topics": 20,
+      "units": 180
+    },
+    {
+      "name": "Intermedio",
+      "topics": 20,
+      "units": 60
+    },
+    {
+      "name": "Avanzado",
+      "topics": 20,
+      "units": 60
+    }
+  ],
+  "total_topics": 60,
+  "total_units": 300
+}

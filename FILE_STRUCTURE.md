@@ -1,0 +1,13 @@
+# Estructura Completa del Proyecto
+- `index.html` / `chilo_english_tu_historia_comienza_aqui.html`
+- `start.js`
+- `01_FRONTEND/` (`styles/chilo_theme.css`, `js/chilo_mascot.js`, `js/storage_sync.js`, `FRONTEND_ARCHITECTURE.md`)
+- `02_BACKEND/` (`server.js`, `security.js`, `auth_service.js`, `lessons_controller.js`, `garden_controller.js`, `backup_controller.js`)
+- `03_DATABASE/` (`01_schema.sql` .. `07_views_reports.sql`)
+- `BASE_DE_DATOS/` (`chilo_english_full_db.sql`, `db_client.js`, `curriculum_completo_300_unidades.json`, `estructura_resumen.json`)
+- `04_ASSETS/` (`ASSETS_MANIFEST.json`)
+- `05_JUEGOS/` (`game_engine.js`, `GAMES_CATALOG.json`)
+- `06_MI_JARDIN_3D/` (`garden_3d_controller.js`, `GARDEN_SPEC.json`)
+- `09_DOCUMENTACION/` (`MANUAL_DE_USUARIO.md`)
+- `10_TESTS/` (`verify_platform.js`)
+- `11_CONFIGURACION/` (`.env.example`, `security_headers.json`)

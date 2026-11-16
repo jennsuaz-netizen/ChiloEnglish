@@ -1,0 +1,18 @@
+{
+  "brand": "CHILO ENGLISH",
+  "mascot": "Chilo",
+  "states": [
+    "idle",
+    "happy",
+    "celebrate",
+    "encourage",
+    "streak",
+    "jump",
+    "wave",
+    "fly"
+  ],
+  "voice_accents": [
+    "en-US",
+    "en-GB"
+  ]
+}
